@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mycink.github.io/sitemap.xml
